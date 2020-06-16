@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #444;
+  color: #fff;
+  font-family: Ubuntu;
+  font-weight: 300;
+  font-size: 2rem;
+  text-align: center;
+}

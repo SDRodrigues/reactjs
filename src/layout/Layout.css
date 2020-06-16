@@ -1,0 +1,20 @@
+.Layout{
+    border: 3px solid;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    margin: 20px;
+
+}
+
+.Layout .Conteudo {
+    color: #000;
+    padding: 15px 0;
+
+}
+
+.Layout .Footer {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 0;
+}
